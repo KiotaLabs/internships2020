@@ -1,4 +1,4 @@
-These are conceptual questions, and not programming tasks. In each of the following questions, we are looking for basic explanations, but please note that demonstrating with code examples is the ultimate winning strategy. 
+These are conceptual questions, and not programming tasks. In each of the following questions, we are looking for basic explanations, but please note that demonstrating with code examples wherever possible is the ultimate winning strategy. 
 
 ### Data Serialization
 1. What is the meaning of serialization (or deserialization) of Data?
@@ -20,7 +20,7 @@ As Java projects become bigger, they require build tools. Historically, Apache A
 2. Class dependencies can be injected using Annotations in Java, without the use of any external framework, however, frameworks make the implementation more convenient. Name two popular frameworks for implementing Dependency Injection in Java. 
 
 ### Software Architecture
-1. As you leave college and enter software industry, you'll often encounter the phrase software architecture. It is used to refer to a broad number of things and the definition is not very crisp. We would request you to try and understand what it means. Here are a few links talking about architecture
+1. As you leave college and enter the software industry, you'll often encounter the phrase software architecture. It is used to refer to a broad number of things and the definition is not very crisp. We would request you to try and understand what it means. Here are a few links talking about architecture
     - https://martinfowler.com/architecture/
     - https://www.tutorialspoint.com/software_architecture_design/introduction.htm
     - https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
@@ -28,13 +28,15 @@ As Java projects become bigger, they require build tools. Historically, Apache A
 Share a small summary of what you understand from the above write ups. One of the tasks for our interns revolves around using and understanding the architecture of Hadoop YARN. 
 
 ### Distributed Applications
-2. What do you know about Hadoop? 
+1. What do you know about Hadoop? 
 
+#### Google Cloud Bigtable
 Bigtable is a distributed wide column store originally described in [this paper](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf).
 
-1. What is a wide column store?
-2. How is it different from column stores?
+2. What is a wide column store?
+3. How is it different from column stores?  
 
-Apart from being massively distributed, Google Bigtable is also offered on the cloud as part of Google Cloud Platform. 
-1. Are there equivalent cloud offerings from Microsoft Azure, Amazon Web Services, IBM and Oracle? If yes, what are their names?
-2. Are there open source alternatives to Google Cloud Bigtable, which can be self hosted? If yes, what are their names?
+Apart from being massively distributed, Google Bigtable is also offered on the cloud as part of Google Cloud Platform.  
+
+4. Are there equivalent cloud offerings from Microsoft Azure, Amazon Web Services, IBM and Oracle? If yes, what are their names?  
+5. Are there open source alternatives to Google Cloud Bigtable, which can be self hosted? If yes, what are their names?
