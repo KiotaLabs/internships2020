@@ -1,4 +1,4 @@
-**UPDATE 4th May 2020**: We've added the [Javascript assignment](https://github.com/KiotaLabs/internships2020/blob/master/WebFrontend.md) in a Jupyter notebook. All the best with the questions.
+**UPDATE 4th May 2020**: We've added the [web frontend assignment](https://github.com/KiotaLabs/internships2020/blob/master/WebFrontend.md). All the best with the questions.
 
 ---
 **UPDATE 27th April 2020**: We've added the [Python assignment](https://github.com/KiotaLabs/internships2020/blob/master/MachineLearningPython.ipynb) in a Jupyter notebook. All the best with the questions.
