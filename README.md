@@ -1,3 +1,6 @@
+**UPDATE 4th May 2020**: We've added the [Javascript assignment](https://github.com/KiotaLabs/internships2020/blob/master/WebFrontend.md) in a Jupyter notebook. All the best with the questions.
+
+---
 **UPDATE 27th April 2020**: We've added the [Python assignment](https://github.com/KiotaLabs/internships2020/blob/master/MachineLearningPython.ipynb) in a Jupyter notebook. All the best with the questions.
 
 ---
@@ -13,6 +16,7 @@ This collection is work in progress. We've added questions for [Java](https://gi
 Send your submissions through Internshala itself, or mail us directly at aditya@kiotalabs.com 
 
 **Notes**:
+
 - [x] Add Python questions
-- [ ] Add Javascript questions
+- [x] Add Javascript questions
 - [ ] Maybe add links to external sources for clarification of terms
